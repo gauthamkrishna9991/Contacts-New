@@ -2179,6 +2179,17 @@
 
 #School of Biotechnology
 
+   Biotechnology Office:
+       0495 228 5451
+       
+       Biotechnology Block SF
+
+   HOD:
+       0495 228 5450
+       hodbiotech@nitc.ac.in
+       HOD
+       Biotechnology Block SF
+
    Dr A Santhiagu:
        0495 228 5454
        asanthiagu@nitc.ac.in
@@ -2198,16 +2209,6 @@
        
        Biotechnology SF
 
-   Biotechnology Office:
-       0495 228 5451
-       
-       Biotechnology Block SF
-
-   HOD:
-       0495 228 5450
-       hodbiotech@nitc.ac.in
-       HOD
-       Biotechnology Block SF
 
    Dr M D Anaul Kabir:
        0495 228 5461
@@ -2252,6 +2253,17 @@
        ROOM 302
 #School of Management Studies (SOMS)
 
+   Soms Office:
+       0495 228 6075
+       
+       SOMS
+
+   HOD:
+       0495 228 6077
+       hodsoms@nitc.ac.in
+       HOD
+       SOMS
+
    Dr Althaf S:
        0495 228 6080
        althaf@nitc.ac.in
@@ -2267,11 +2279,6 @@
        
        MB SF
 
-   HOD:
-       0495 228 6077
-       hodsoms@nitc.ac.in
-       HOD
-       SOMS
 
    Dr Muhammed Shafi K:
        0495 228 6076
@@ -2311,10 +2318,6 @@
        
        SOMS ground floor
 
-   Soms Office:
-       0495 228 6075
-       
-       SOMS
 
    SOMS Research Schoolars Room:
        0495 228 6070
@@ -2448,6 +2451,11 @@
 
 #Training and Placement
 
+   Training & pLacement Office:
+       0495 228 6601
+       
+       Training & Placement Block GF
+
    Dr Sameer T & P:
        0495 228 6602
        HOD
@@ -2473,10 +2481,7 @@
        
        Training and Placement
 
-   Training & pLacement Office:
-       0495 228 6601
-       
-       Training & Placement Block GF
+
 
 
 #ECE
