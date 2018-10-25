@@ -656,7 +656,6 @@
 
    Chemical Engineering Office:
        0495 228 5401
-       
        Chemical Engineering FF
 
    HOD:
@@ -775,45 +774,17 @@
        Chemical 110
 #Chemistry
 
+	 Chemistry Office:
+       0495 228 5301
+       Chemistry Block FF
+		
 	 HOD:
        0495 228 5300
        hodchemistry@nitc.ac.in
        HOD
        Chemistry Block FF
-   Bio Organic Lab:
-       0495 228 5317
-       Chemistry Block GF
-
-   Bioinorganic Materials Research Lab:
-       0495 228 5318
-       Chemistry Block SF
-
-   Chemistry Office:
-       0495 228 5301
-       Chemistry Block FF
-
-   Computer Room:
-       0495 228 5322
-       Chemistry Block GF
-
-   
-
-   Inorganic & Bio-Inorganic Lab:
-       0495 228 5311
-       
-       Chemistry Block GF
-
-   Instrumentation Lab:
-       0495 228 5314
-       
-       Chemistry Block FF
-
-   Instrumentation Lab 2:
-       0495 228 5323
-       
-       Chemistry Block FF
-
-   Dr Janardhan Banothu:
+	
+	 Dr Janardhan Banothu:
        0495 228 5324
        janardhan@nitc.ac.in
        Assistant Professor
@@ -824,23 +795,14 @@
        lakshmi@nitc.ac.in
        Associate Professor & HoD
        Chemistry Block 306
+	
    Dr Lisa Sreejith:
        0495 228 5309
        lisa@nitc.ac.in
        Associate Professor And HOD
        Chemistry Block 210B
 
-   Material Research lab:
-       0495 228 5319
-       
-       Chemistry Block GF
-
-   Dr Mini Mol:
-       0495 228 5303
-       Inspire Faculty
-       
-
-   Dr Muniyandi Sankaralingam:
+	 Dr Muniyandi Sankaralingam:
        0495 228 5325
        msankaralingam@nitc.ac.in
        Assistant Professor
@@ -851,67 +813,91 @@
        param@nitc.ac.in
        Assistant Professor
        Chemistry Block 303
-   PG Physical Lab:
-       0495 228 5312
-       
-       Chemistry Block SF
-
-   Polymer Science & Technology Lab:
-       0495 228 5310
-       
-       Chemistry Block GF
-
-   Dr Raju dey:
+	
+	 Dr Raju dey:
        0495 228 5326
        rajudey@nitc.ac.in
        Assistant Professor
        Chemistry block Room :210(A)
 
-   Ms Saroja T M:
-       0495 228 5301
-       Sanitation Worker
-       Chemistry Block
-
-   Soft Material Lab:
-       0495 228 5313
-       
-       Chemistry Block GF
-
-   Dr Sujith A:
+	 Dr Sujith A:
        0495 228 5308
        sujith@nitc.ac.in
        Assistant Professor
        Chemistry Block 305
+
    Dr Suni Vasudevan:
        0495 228 5305
        suniv@nitc.ac.in
        Assistant Professor
        Chemistry Block 304
-   TGA/DSC:
-       0495 228 5315
-       
-       Chemistry BlockGF
-
-   Theoretical Lab:
-       0495 228 5316
-       
-       Chemistry Block SF
-
-   UG Lab 1:
-       0495 228 5320
-       
-       Chemistry Block GF
-
-   UG Lab 2:
-       0495 228 5321
-       
-       Chemistry Block GF
 
    Dr Unnikrishnan:
        0495 228 5302
        unnig@nitc.ac.in
-        Professor
+       Professor
        Chemistry Block 208
+
+   Dr Mini Mol:
+       0495 228 5303
+       Inspire Faculty
+
+   Bio Organic Lab:
+       0495 228 5317
+       Chemistry Block GF
+
+   Bioinorganic Materials Research Lab:
+       0495 228 5318
+       Chemistry Block SF
+
+  Computer Room:
+       0495 228 5322
+       Chemistry Block GF
+
+   Inorganic & Bio-Inorganic Lab:
+       0495 228 5311
+       Chemistry Block GF
+
+   Instrumentation Lab:
+       0495 228 5314
+       Chemistry Block FF
+
+   Instrumentation Lab 2:
+       0495 228 5323
+       Chemistry Block FF
+
+   Material Research lab:
+       0495 228 5319
+       Chemistry Block GF
+
+   PG Physical Lab:
+       0495 228 5312
+       Chemistry Block SF
+
+   Polymer Science & Technology Lab:
+       0495 228 5310
+       Chemistry Block GF
+
+   Soft Material Lab:
+       0495 228 5313
+       Chemistry Block GF
+
+   TGA/DSC:
+       0495 228 5315
+       Chemistry BlockGF
+
+   Theoretical Lab:
+       0495 228 5316
+       Chemistry Block SF
+
+   UG Lab 1:
+       0495 228 5320
+       Chemistry Block GF
+
+   UG Lab 2:
+       0495 228 5321
+       Chemistry Block GF
+
 #Civil Engineering
 
    Adhoc Faculty - CED:
