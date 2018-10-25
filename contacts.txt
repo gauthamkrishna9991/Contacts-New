@@ -451,15 +451,22 @@
 
 #Architecture
 
+   Architecture Engineering Office:
+       0495 228 6901
+       
+       Architecture Engineering Block FF
+
+   HOD:
+       0495 228 6900
+       hodarc@nitc.ac.in
+       HOD
+       Architecture Engineering Block FF
+
    Dr Anil Kumar  P P:
        0495 228 6903
        ppa@nitc.ac.in
        Associate Professor
        AB311
-   Architecture Engineering Office:
-       0495 228 6901
-       
-       Architecture Engineering Block FF
 
    Mr Bimal P:
        0495 228 6909
@@ -481,11 +488,6 @@
        chithrak@nitc.ac.in
        Assistant Professor
        AB310
-   HOD:
-       0495 228 6900
-       hodarc@nitc.ac.in
-       HOD
-       Architecture Engineering Block FF
 
    IMD Lab:
        0495 228 6914
