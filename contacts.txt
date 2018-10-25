@@ -654,6 +654,17 @@
 
 #Chemical Engineering
 
+   Chemical Engineering Office:
+       0495 228 5401
+       
+       Chemical Engineering FF
+
+   HOD:
+       0495 228 5400
+       hodchemical@nitc.ac.in
+       HOD
+       Chemical Engineering FF
+~
    Ms Aparna K:
        0495 228 5405
        aparnak@nitc.ac.in
@@ -666,10 +677,6 @@
        Assistant Professor
        Chemical block 206(A)
 
-   Chemical Engineering Office:
-       0495 228 5401
-       
-       Chemical Engineering FF
 
    Dr Dhanya Ram:
        0495 228 5464
@@ -677,11 +684,7 @@
        Assistant Professor
        Chemical block 205(E)
 
-   HOD:
-       0495 228 5400
-       hodchemical@nitc.ac.in
-       HOD
-       Chemical Engineering FF
+
 
    INSTRUMENTAL ANALYSIS LAB:
        0495 228 5484
