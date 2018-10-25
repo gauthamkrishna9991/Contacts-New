@@ -2048,6 +2048,12 @@
        0495 228 6614
        najeeb@nitc.ac.in
        Associate Professor
+       Physical Education
+  
+	 Mr Sunil M S:
+       0495 228 6611
+       sunilms@nitc.ac.in
+       Assistant Professor
        Physical Education  
 
    Adhoc Staff Room:
@@ -2055,21 +2061,59 @@
        
        MB FF
 
-   Mr Sunil M S:
-       0495 228 6611
-       sunilms@nitc.ac.in
-       Assistant Professor
-       Physical Education  
-
-
-
 #Physics
+
+	 Physics Office:
+       0495 228 5101
+       
+       Physics Block GF
+	 HOD:
+       0495 228 5100
+       hodphysics@nitc.ac.in
+       HOD
+       Physics Block GF
 
    Dr Aji A  Anappara:
        0495 228 5107
        aji@nitc.ac.in
        Assistant Professor
        Physics Block 117B
+
+	 Dr Madhavan Unni P K:
+       0495 228 5106
+       mad@nitc.ac.in
+       Assistant Professor
+       Physics Block 116B
+
+   Dr Maneesh Chandran:
+       0495 228 5119
+       maneesh@nitc.ac.in
+       Assistant Professor
+       117A
+
+	 Dr Predeep P:
+       0495 228 5103
+       predeep@nitc.ac.in
+       Professor & HOD
+       Physics Block 109
+
+   Dr Raghu Chatanathody:
+       0495 228 5104
+       raghuc@nitc.ac.in
+       Associate Professor
+       Physics Block 206
+
+   Dr Ravi Varma Mundakkara Kovilakam:
+       0495 228 5105
+       r.varma@nitc.ac.in
+       Associate Professor
+       Physics Block 204
+	 
+	 Dr Chandrasekharan K:
+       0495 228 5102
+       csk@nitc.ac.in
+       Professor
+       Physics Block 103
 
    Applied Optics & Instrumentation lab:
        0495 228 5111
@@ -2082,16 +2126,22 @@
        Assistant Professor
        213A
 
+	 Mr Vari Sivaji Reddy:
+       0495 228 5108
+       sivaji@nitc.ac.in
+       Assistant Professor
+       Physics Block 213B
+	
+	 Mr Prakash Peter:
+       0495 228 5109
+       prakash@nitc.ac.in
+       Laboratory Assistants
+       
    BTECH Lab:
        0495 228 5114
        
        Physics Block GF
 
-   Dr Chandrasekharan K:
-       0495 228 5102
-       csk@nitc.ac.in
-       Professor
-       Physics Block 103
    Computer Centre Physics:
        0495 228 5112
        
@@ -2102,28 +2152,10 @@
        
        Physics Block FF
 
-   HOD:
-       0495 228 5100
-       hodphysics@nitc.ac.in
-       HOD
-       Physics Block GF
-
    Laser Non Linear Optics Lab:
        0495 228 5110
        
        Physics Block FF
-
-   Dr Madhavan Unni P K:
-       0495 228 5106
-       mad@nitc.ac.in
-       Assistant Professor
-       Physics Block 116B
-
-   Dr Maneesh Chandran:
-       0495 228 5119
-       maneesh@nitc.ac.in
-       Assistant Professor
-       117A
 
    MSc Tech ELE Lab:
        0495 228 5115
@@ -2140,44 +2172,10 @@
        
        Physics Block SF
 
-   Physics Office:
-       0495 228 5101
-       
-       Physics Block GF
-
-   Mr Prakash Peter:
-       0495 228 5109
-       prakash@nitc.ac.in
-       Laboratory Assistants
-       
-
-   Dr Predeep P:
-       0495 228 5103
-       predeep@nitc.ac.in
-       Professor & HOD
-       Physics Block 109
-   Dr Raghu Chatanathody:
-       0495 228 5104
-       raghuc@nitc.ac.in
-       Associate Professor
-       Physics Block 206
-   Dr Ravi Varma Mundakkara Kovilakam:
-       0495 228 5105
-       r.varma@nitc.ac.in
-       Associate Professor
-       Physics Block 204
    UE & P Lab:
        0495 228 5113
        
        Physics Block SF
-
-   Mr Vari Sivaji Reddy:
-       0495 228 5108
-       sivaji@nitc.ac.in
-       Assistant Professor
-       Physics Block 213B
-
-
 
 #School of Biotechnology
 
@@ -2359,16 +2357,17 @@
 
 #School of Nano Technology
 
+	 HOD:
+       0495 228 6500
+       HOD
+       Nano Technology Block FF
+
+
    Dr C B Sobhan:
        0495 228 6502
        csobhan@nitc.ac.in
        Professor & HOD
        NANO G FLR
-
-   Ms Freeda S Balan:
-       0495 228 6501
-       Sanitation worker 
-       Nano block FF
 
    Dr Hanas T:
        0495 228 6543
@@ -2376,16 +2375,28 @@
        Assistant Professor
        Materials research laborotory
 
+	 Dr Sajith V:
+       0495 228 6525
+       sajith@nitc.ac.in
+       Assistant Professor
+       NANO G FLR
+
    Mr Hanas T(Qip):
        0495 228 6526
        hanas@nitc.ac.in
        Assistant Professor
-       s
+       
+	  Mr Shijo Thomas:
+       0495 228 6529
+       shijo@nitc.ac.in
+       Assistant Professor
+       NANO I FLR
 
-   HOD:
-       0495 228 6500
-       HOD
-       Nano Technology Block FF
+   Dr Soney Varghese:
+       0495 228 6524
+       soneyva@nitc.ac.in
+       Assistant Professor
+       NANO I FLR
 
    Dr N Sandhyarani:
        0495 228 6537
@@ -2401,13 +2412,9 @@
    NANO PG Lab:
        0495 228 6540
        
-       
-
    NANO Research Lab:
        0495 228 6541
        
-       
-
    Nano Science Research Lab:
        0495 228 6537
        
@@ -2418,36 +2425,12 @@
        
        Nano Technology Block FF
 
-   Dr Sajith V:
-       0495 228 6525
-       sajith@nitc.ac.in
-       Assistant Professor
-       NANO G FLR
-
    SEM Lab:
        0495 228 6542
        
        NANO G FLR
 
-   Mr Shijo Thomas:
-       0495 228 6529
-       shijo@nitc.ac.in
-       Assistant Professor
-       NANO I FLR
-
-   Dr Soney Varghese:
-       0495 228 6524
-       soneyva@nitc.ac.in
-       Assistant Professor
-       NANO I FLR
-
-   Dr Subramanian:
-       0495 228 6539
-       Inspire Adhoc Faculty
-       Computational lab, Nano FF
-
-
-
+  
 #Training and Placement
 
    Dr Sameer T & P:
@@ -2482,165 +2465,211 @@
 
 
 #ECE
+
+	ECE Engineering Office:
+		+91495 228 6701
+
+	HOD:
+		+91495 228 6700
+
 	Dr. R Karthik:
 		+91495 228 6771
 		Assistant Professor
 		Email: karthik@nitc.ac.in
 		Location: TTL Faculty Room
-	Ms. A Sumathi:
-		+91495 228 6701
-		Peon(Higher Grade)
+
 	Dr. Abhilash G:
 		+91495 228 6707
 		Associate Professor
 		Email: abhilash@nitc.ac.in
+
 	Dr. Ali C K:
 		+91495 228 6717
 		Associate Professor
 		Email: cka@nitc.ac.in
+
 	Dr. Ameer P M:
 		+91495 228 6731
 		Assistant Professor
 		Email: ameer@nitc.ac.in
+
 	Mr. Anandhan K R:
 		+91495 228 6743
 		Senior Mechanic (Selection Grade)
 		Email: kran@nitc.ac.in
+
 	Mr. B Bhuvan:
 		+91495 228 6711
 		Assistant Professor
 		Email: bhuvan@nitc.ac.in
+
 	Dr. Babu A V:
 		+91495 228 6706
 		Associate Professor & HOD
 		Email: babu@nitc.ac.in
+
 	Dr. Bindya T S:
 		+91495 228 6723
 		Assistant Professor
 		Email: bindyajayakumar@nitc.ac.in
-	Circuit Lab:
-		+91495 228 6741
-	Communication Engineering Lab:
-		+91495 228 6744
+	
 	Dr. Deepthi P P:
 		+91495 228 6725
 		Associate Professor
 		Email: deepthi@nitc.ac.in
-	Mr. Dhanaraj K J:
-		+91495 228 6710
-		Assistant Professor
-		Email: dhanaraj@nitc.ac.in
-	DST Fist Lab:
-		+91495 228 6749
-	ECED Library:
-		+91495 228 6755
-	ECE Engineering Office:
-		+91495 228 6701
-	Electronics Workshop:
-		+91495 228 6753
-	Dr. Elizabeth Elias:
-		+91495 228 6703
-		Professor
-		Email: elizabeth@nitc.ac.in
-	Embedded System Lab:
-		+91495 228 6743
-	HOD:
-		+91495 228 6700
-	IC Lab:
-		+91495 228 6742
-	Mr. Jaikumar M G:
-		+91495 228 6702
-		Associate Professor
-		Email: jkmg@nitc.ac.in
-	Mr. Jayakumar E P:
-		+91495 228 6732
-		Assistant Professor
-		Email: jay@nitc.ac.in
-	Mr. K P Venugopalan:
-		+91495 228 6740
-		Instructor
-		Email: kpvenu@nitc.ac.in
-	Mr. Krihnankutty V:
-		+91495 228 6741
-		Senior Mechanic (Selection Grade)
-		Email: krishnankutty@nitc.ac.in
-	Dr. Lillykutty Jacob
-		+91495 228 6718
-		Professor
-		Email: lilly@nitc.ac.in
-	Ms. Lyla B Das:
-		+91495 228 6709
-		Associate Professor
-		Email: lbd@nitc.ac.in
-	Dr. P C Subramanian:
-		+91495 228 6708
-		Professor
-	PHD Research Scholar Room:
-		+91495 228 6739
-	Mr. Praveen H Babu:
-		+91495 228 6742
-		Senior Mechanic
-		Email: phb@nitc.ac.in
-	Dr. Praveen Shankaran:
-		+91495 228 6721
-		Assistant Professor
-		Email: pshankaran@nitc.ac.in
-	Project Lab:
-		+91495 228 6756
-	PSOC Lab:
-		+91495 228 6748
-	Mr. Raghu C V:
-		+91495 228 6715
-		Assistant Professor
-		Email: raghucv@nitc.ac.in
-	Dr. Sameer S M:
-		+91495 228 6720
-		Assistant Professor
-		Email: sameer@nitc.ac.in
-	Dr. Sathi Devi P S:
-		+91495 228 6704
-		Professor
-		Email: sathi@nitc.ac.in
-	SPCOM Lab:
-		+91495 228 6751
-	Dr. Sreelekha G:
-		+91495 228 6726
-		Associate Professor
-		Email: lekha@nitc.ac.in
-	Mr. Sudhish N George:
-		+91495 228 6716
-		Assistant Professor
-		Email: sudhish.nitc.ac.in
-	Ms. Suja K J:
-		+91495 228 6722
-		Assistant Professor
-		Email: suja.nitc.ac.in
-	Mr. Suresh Kumar H:
-		+91495 228 6744
-		Senior Mechanic
-		gsk@nitc.ac.in
-	Mr. Suresh R:
-		+91495 228 6712
-		Associate Professor
-		Email: rangan@nitc.ac.in
-	Dr. Surya Prakash:
-		+91495 228 6734
-		Assistant Professor
-		Email: suryaprakash@nitc.ac.in
-	TTL Lab:
-		+91495 228 6745
-	Mr. V Sakthivel:
-		+91495 228 6730
-		Assistant Professor
-		Email: sakthi517@nitc.ac.in
-	Mr. Veluthakki C:
-		+91495 228 6701
-		C. A. GR. II (HR.GR)
-		Email: leela@nitc.ac.in
+	
 	Dr. Venu Anand:
 		+91495 228 6736
 		Assistant Professor
 		Email: venuanand@nitc.ac.in
+	
+	Mr. Jaikumar M G:
+		+91495 228 6702
+		Associate Professor
+		Email: jkmg@nitc.ac.in
+
+	Mr. Jayakumar E P:
+		+91495 228 6732
+		Assistant Professor
+		Email: jay@nitc.ac.in
+
+	Ms. Lyla B Das:
+		+91495 228 6709
+		Associate Professor
+		Email: lbd@nitc.ac.in
+
+	Mr. Dhanaraj K J:
+		+91495 228 6710
+		Assistant Professor
+		Email: dhanaraj@nitc.ac.in
+
+	Dr. Praveen Shankaran:
+		+91495 228 6721
+		Assistant Professor
+		Email: pshankaran@nitc.ac.in
+
+	Mr. Raghu C V:
+		+91495 228 6715
+		Assistant Professor
+		Email: raghucv@nitc.ac.in
+
+	Dr. Sameer S M:
+		+91495 228 6720
+		Assistant Professor
+		Email: sameer@nitc.ac.in
+
+	Dr. Sathi Devi P S:
+		+91495 228 6704
+		Professor
+		Email: sathi@nitc.ac.in
+
+	Dr. Sreelekha G:
+		+91495 228 6726
+		Associate Professor
+		Email: lekha@nitc.ac.in
+
+	Mr. Sudhish N George:
+		+91495 228 6716
+		Assistant Professor
+		Email: sudhish.nitc.ac.in
+
+	Ms. Suja K J:
+		+91495 228 6722
+		Assistant Professor
+		Email: suja.nitc.ac.in
+
+	Mr. Suresh R:
+		+91495 228 6712
+		Associate Professor
+		Email: rangan@nitc.ac.in
+
+	Dr. Surya Prakash:
+		+91495 228 6734
+		Assistant Professor
+		Email: suryaprakash@nitc.ac.in
+
+	TTL Lab:
+		+91495 228 6745
+
+	Mr. V Sakthivel:
+		+91495 228 6730
+		Assistant Professor
+		Email: sakthi517@nitc.ac.in
+
+	Dr. Lillykutty Jacob
+		+91495 228 6718
+		Professor
+		Email: lilly@nitc.ac.in
+
+	Dr. P C Subramanian:
+		+91495 228 6708
+		Professor
+
+	Dr. Elizabeth Elias:
+		+91495 228 6703
+		Professor
+		Email: elizabeth@nitc.ac.in
+
+	Circuit Lab:
+		+91495 228 6741
+
+	Communication Engineering Lab:
+		+91495 228 6744
+
+	DST Fist Lab:
+		+91495 228 6749
+
+	ECED Library:
+		+91495 228 6755
+
+	Electronics Workshop:
+		+91495 228 6753
+
+	Embedded System Lab:
+		+91495 228 6743
+	
+	IC Lab:
+		+91495 228 6742
+
+	Mr. K P Venugopalan:
+		+91495 228 6740
+		Instructor
+		Email: kpvenu@nitc.ac.in
+
+	Mr. Krihnankutty V:
+		+91495 228 6741
+		Senior Mechanic (Selection Grade)
+		Email: krishnankutty@nitc.ac.in
+
+	PHD Research Scholar Room:
+		+91495 228 6739
+
+	Mr. Praveen H Babu:
+		+91495 228 6742
+		Senior Mechanic
+		Email: phb@nitc.ac.in
+
+	
+	Project Lab:
+		+91495 228 6756
+
+	PSOC Lab:
+		+91495 228 6748
+
+	SPCOM Lab:
+		+91495 228 6751
+
+	
+	Mr. Suresh Kumar H:
+		+91495 228 6744
+		Senior Mechanic
+		gsk@nitc.ac.in
+
+	Mr. Veluthakki C:
+		+91495 228 6701
+		C. A. GR. II (HR.GR)
+		Email: leela@nitc.ac.in
+	
 	VLSI Lab:
 		+91495 228 6746
 
