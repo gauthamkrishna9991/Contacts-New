@@ -783,7 +783,7 @@
        Chemical 110
 #Chemistry
 
-   HOD:
+	 HOD:
        0495 228 5300
        hodchemistry@nitc.ac.in
        HOD
@@ -921,16 +921,16 @@
         Professor
        Chemistry Block 208
 #Civil Engineering
-   Civil Engineering Office:
-       0495 228 6201
-       
-       Civil Block FF
 
-   HOD:
-       0495 228 6200
-       civilhod@nitc.ac.in
-       HOD
-       Civil Block FF
+   Adhoc Faculty - CED:
+       0495 228 6281
+       
+       Civil Engineering 
+
+   Adhoc Faculty Room- Offshore:
+       0495 228 6203
+       
+       offshore
 
    Dr Agilan V:
        0495 228 6251
@@ -954,6 +954,10 @@
        Watchman Cum Gardener
        Civil Engineering Block
 
+   Centre For Transportation Research:
+       0495 228 6248
+       
+       MB120
    Dr Chandrakaran S:
        0495 228 6209
        chandra@nitc.ac.in
@@ -964,6 +968,31 @@
        chithranr@nitc.ac.in
        Assistant Professor
        COM Lab
+
+   Civil CAD/ CAM:
+       0495 228 6272
+       
+       Central Lybarary GF
+
+   Civil Engineering Office:
+       0495 228 6201
+       
+       Civil Block FF
+
+   Concrete Lab:
+       0495 228 6241
+       
+       Concrete Lab
+
+   Environmental Engineering Lab:
+       0495 228 6247
+       
+       Environmental Engineering Lab
+
+   Geo Technical Engineering Lab:
+       0495 228 6245
+       
+       Geo Technical Engineering Lab
 
    Dr George K Varghese:
        0495 228 6206
@@ -976,6 +1005,11 @@
        harikrishna@nitc.ac.in
        Assistant Professor
        MB120
+   HOD:
+       0495 228 6200
+       civilhod@nitc.ac.in
+       HOD
+       Civil Block FF
 
    Dr Indira P V:
        0495 228 6213
@@ -1042,6 +1076,15 @@
        Senior Mechanic
        SM Lab
 
+   Offshore:
+       0495 228 6246
+       
+       Offshore 
+
+   Offshore Computational lab:
+       0495 228 6283
+       
+       Offshore Building
 
    Mr P Sreenivasan:
        0495 228 6244
@@ -1049,6 +1092,15 @@
        Senior Mechanic (Selection Grade)
        Survey Lab( Main Block GF)
 
+   PG Computer Lab:
+       0495 228 6271
+       
+       Central Lybarary GF
+
+   PG Structural Lab:
+       0495 228 6242
+       
+       PG Structural Lab
 
    Ms Pramada S K:
        0495 228 6218
@@ -1121,99 +1173,38 @@
        Instructor
        Environmental Engineering Lab
 
+   SM Lab:
+       0495 228 6240
+       
+       SM Lab
 
    Ms Stella V C:
        0495 228 6201
        Fair Copy Superintendent
        Civil Engineering Office
 
+   Survey Lab:
+       0495 228 6244
+       
+       MB GF
 
    Dr T M Madhavan Pillai:
        0495 228 6216
        mpillai@nitc.ac.in
         Professor
        PG101
+   Transportation Lab:
+       0495 228 6243
+       
+       Transportation Lab
 
    Dr Zacharia Varghese T:
        0495 228 6215
        zacharia@nitc.ac.in
         Professor
        DB314
-
-   Centre For Transportation Research:
-       0495 228 6248
-       
-       MB120
-	   
-   Civil CAD/ CAM:
-       0495 228 6272
-       
-       Central Lybarary GF
-	   
-   PG Computer Lab:
-       0495 228 6271
-       
-       Central Lybarary GF
-
-   PG Structural Lab:
-       0495 228 6242
-       
-       PG Structural Lab
-
-   Transportation Lab:
-       0495 228 6243
-       
-       Transportation Lab
-
-   Survey Lab:
-       0495 228 6244
-       
-       MB GF
-
-   SM Lab:
-       0495 228 6240
-       
-       SM Lab
-
-   Offshore:
-       0495 228 6246
-       
-       Offshore 
-
-   Offshore Computational lab:
-       0495 228 6283
-       
-       Offshore Building
-	   
-   Concrete Lab:
-       0495 228 6241
-       
-       Concrete Lab
-
-   Environmental Engineering Lab:
-       0495 228 6247
-       
-       Environmental Engineering Lab
-
-   Geo Technical Engineering Lab:
-       0495 228 6245
-       
-       Geo Technical Engineering Lab
-	   
 #Computer Science and Engineering
-   Computer Science And Engineering Office:
-       0495 228 6801
-       
-       CSED Block GF
 
-
-   HOD:
-       0495 228 6800
-       hodcsed@nitc.ac.in
-       HOD
-       CSED Block GF
-
-	   
    Dr Abdul Nazeer K A:
        0495 228 6818
        nazeer@nitc.ac.in
@@ -1226,6 +1217,15 @@
        Senior Mechanic
        Main Block FF
 
+   Adhoc faculty Room CSED:
+       0495 228 6825
+       
+       CSED block 103
+   Adhoc Faculty Room CSED:
+       0495 228 6819
+       
+       MB FF
+
    Mr Ajaya Chandran V R:
        0495 228 6840
        ajay@nitc.ac.in
@@ -1237,6 +1237,10 @@
        anu.chako@nitc.ac.in
        Assistant Professor
        CSE Block Room No:105
+   Bigdata Biocomputing Lab:
+       0495 228 6880
+       
+       Central Computer Centre (CCC)
 
    Mr Biju Francis:
        0495 228 6843
@@ -1250,6 +1254,25 @@
        Senior Mechanic
        CSE Office
 
+   Bio Computing Lab:
+       0495 228 6879
+       
+       IT Lab Complex SF
+
+   Cloud Computing Lab:
+       0495 228 6862
+       
+       MB FF
+
+   Computational Intelligent Lab:
+       0495 228 6844
+       
+       MB FF
+
+   Computer Science And Engineering Office:
+       0495 228 6801
+       
+       CSED Block GF
 
    Dr APJ Abdul Kalam Conference Room:
        0495 228 6828
@@ -1261,6 +1284,21 @@
        gopakumarg@nitc.ac.in
        Assistant Professor
        MB209
+   Hardware & Embedded System Lab:
+       0495 228 6841
+       
+       IT Complex SF
+
+   HOD:
+       0495 228 6800
+       hodcsed@nitc.ac.in
+       HOD
+       CSED Block GF
+
+   Image Processing Lab:
+       0495 228 6861
+       
+       MB FF
 
    Mr Jayaraj P  B:
        0495 228 6813
@@ -1295,6 +1333,10 @@
        Assistant Professor
        CSE Block Room No:203A
 
+   Network Systems Lab:
+       0495 228 6843
+       
+       IT Complex SF
 
    Ms Pournami P N:
        0495 228 6824
@@ -1324,6 +1366,21 @@
        santhosh@nitc.ac.in
        System Programmer
        CNC
+
+   Secure Computing Lab:
+       0495 228 6842
+       
+       IT Lab Complex SF
+
+   Seminar Hall:
+       0495 228 6878
+       
+       CSE Block FF
+
+   Software Systems Lab:
+       0495 228 6864
+       
+       IT Lab Complex SF
 
    Ms Sreeja V:
        0495 228 6841
@@ -1382,66 +1439,8 @@
        pathari@nitc.ac.in
        Associate Professor
        CSE Block Room No:101C
-	   
-   Network Systems Lab:
-       0495 228 6843
-       
-       IT Complex SF
-
-   Secure Computing Lab:
-       0495 228 6842
-       
-       IT Lab Complex SF
-
-   Seminar Hall:
-       0495 228 6878
-       
-       CSE Block FF
-
-   Software Systems Lab:
-       0495 228 6864
-       
-       IT Lab Complex SF
-
-   Bigdata Biocomputing Lab:
-       0495 228 6880
-       
-       Central Computer Centre (CCC)
-	   
-   Hardware & Embedded System Lab:
-       0495 228 6841
-       
-       IT Complex SF
 
 
-   Image Processing Lab:
-       0495 228 6861
-       
-       MB FF
-	   
-   Bio Computing Lab:
-       0495 228 6879
-       
-       IT Lab Complex SF
-
-   Cloud Computing Lab:
-       0495 228 6862
-       
-       MB FF
-
-   Computational Intelligent Lab:
-       0495 228 6844
-       
-       MB FF
-	   
-   Adhoc faculty Room CSED:
-       0495 228 6825
-       
-       CSED block 103
-   Adhoc Faculty Room CSED:
-       0495 228 6819
-       
-       MB FF
 
 #Guest House
 
