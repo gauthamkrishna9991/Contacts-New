@@ -451,62 +451,54 @@
 
 #Architecture
 
-   Dr Anil Kumar  P P:
-       0495 228 6903
-       ppa@nitc.ac.in
-       Associate Professor
-       AB311
+
    Architecture Engineering Office:
        0495 228 6901
-       
        Architecture Engineering Block FF
-
-   Mr Bimal P:
-       0495 228 6909
-       bimalp@nitc.ac.in
-       Assistant Professor
-       AB315
-   CA Lab:
-       0495 228 6913
-       
-       Architecture Engineering Block FF
-
-   CAD Lab:
-       0495 228 6912
-       
-       Architecture Engineering Block GF
-
-   Ms Chithra K:
-       0495 228 6908
-       chithrak@nitc.ac.in
-       Assistant Professor
-       AB310
+	   
    HOD:
        0495 228 6900
        hodarc@nitc.ac.in
        HOD
        Architecture Engineering Block FF
 
-   IMD Lab:
-       0495 228 6914
-       
-       
+   Dr Anil Kumar  P P:
+       0495 228 6903
+       ppa@nitc.ac.in
+       Associate Professor
+       AB311
+         
+
+   Mr Bimal P:
+       0495 228 6909
+       bimalp@nitc.ac.in
+       Assistant Professor
+       AB315
+  
+   Ms Chithra K:
+       0495 228 6908
+       chithrak@nitc.ac.in
+       Assistant Professor
+       AB310
 
    Dr Kasturba A K:
        0495 228 6905
        kasthurba@nitc.ac.in
        Associate Professor & HOD
        AB308
+	   
    Dr Mohammed Firoz C:
        0495 228 6910
        firoz@nitc.ac.in
        Assistant Professor
        AB314
+	   
    Dr Naseer M A:
        0495 228 6904
        naseer@nitc.ac.in
        Associate Professor 
        AB212
+	   
    Ms Sangeetha P K:
        0495 228 6901
        peon
@@ -517,6 +509,21 @@
        shyni@nitc.ac.in
        Assistant Professor
        AB313
+	
+	CA Lab:
+       0495 228 6913
+       
+       Architecture Engineering Block FF
+
+   CAD Lab:
+       0495 228 6912
+       
+       Architecture Engineering Block GF
+
+	   
+   IMD Lab:
+       0495 228 6914
+    
 #Central Library
 
    CENTRAL LIBRARY REFFERENCE RECORDING:
