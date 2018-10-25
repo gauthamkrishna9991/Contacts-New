@@ -778,6 +778,34 @@
        hodchemistry@nitc.ac.in
        HOD
        Chemistry Block FF
+	 Dr Janardhan Banothu:
+       0495 228 5324
+       janardhan@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 210C
+
+   Dr Lakshmi C:
+       0495 228 5306
+       lakshmi@nitc.ac.in
+       Associate Professor & HoD
+       Chemistry Block 306
+   Dr Lisa Sreejith:
+       0495 228 5309
+       lisa@nitc.ac.in
+       Associate Professor And HOD
+       Chemistry Block 210B
+	 Dr Muniyandi Sankaralingam:
+       0495 228 5325
+       msankaralingam@nitc.ac.in
+       Assistant Professor
+       Chemistry block FF 210-A
+
+   Dr Parameswaran Pattiyil:
+       0495 228 5304
+       param@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 303
+
    Bio Organic Lab:
        0495 228 5317
        Chemistry Block GF
@@ -811,23 +839,7 @@
        
        Chemistry Block FF
 
-   Dr Janardhan Banothu:
-       0495 228 5324
-       janardhan@nitc.ac.in
-       Assistant Professor
-       Chemistry Block 210C
-
-   Dr Lakshmi C:
-       0495 228 5306
-       lakshmi@nitc.ac.in
-       Associate Professor & HoD
-       Chemistry Block 306
-   Dr Lisa Sreejith:
-       0495 228 5309
-       lisa@nitc.ac.in
-       Associate Professor And HOD
-       Chemistry Block 210B
-
+   
    Material Research lab:
        0495 228 5319
        
@@ -838,18 +850,7 @@
        Inspire Faculty
        
 
-   Dr Muniyandi Sankaralingam:
-       0495 228 5325
-       msankaralingam@nitc.ac.in
-       Assistant Professor
-       Chemistry block FF 210-A
-
-   Dr Parameswaran Pattiyil:
-       0495 228 5304
-       param@nitc.ac.in
-       Assistant Professor
-       Chemistry Block 303
-   PG Physical Lab:
+      PG Physical Lab:
        0495 228 5312
        
        Chemistry Block SF
