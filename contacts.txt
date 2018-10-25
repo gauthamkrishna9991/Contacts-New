@@ -664,7 +664,7 @@
        hodchemical@nitc.ac.in
        HOD
        Chemical Engineering FF
-~
+
    Ms Aparna K:
        0495 228 5405
        aparnak@nitc.ac.in
@@ -723,7 +723,6 @@
        Chemical block 207
    Dr R.ASWATHI NAIR:
        0495 228 5459
-       
        Chemical Engineering block
 
    RESEARCH LAB 1:
@@ -1471,6 +1470,17 @@
 
 #Mathematics
 
+   Mathematics Office:
+       0495 228 5201
+       
+       Mathematics Block GF
+
+   HOD:
+       0495 228 5200
+       hodmaths@nitc.ac.in
+       HOD
+       Mathematics Block GF
+
    ADHOC FACULTY ROOM:
        0495 228 5223
        
@@ -1501,11 +1511,6 @@
        
        Mathematics block
 
-   HOD:
-       0495 228 5200
-       hodmaths@nitc.ac.in
-       HOD
-       Mathematics Block GF
 
    Dr Jacob M J:
        0495 228 5203
@@ -1537,10 +1542,6 @@
        mahesh@nitc.ac.in
        Assistant Professor
        Maths block 212
-   Mathematics Office:
-       0495 228 5201
-       
-       Mathematics Block GF
 
    Maths Library:
        0495 228 5219
@@ -1604,11 +1605,17 @@
        Maths block 109
 #Mechanical Engineering
 
-   Title Name:
-       0495 228 Intercom(+91495228)
-       e-mail(@nitc.ac.in)@nitc.ac.in
-       Designation
-       Location
+   Mechanical Engineering Office:
+       0495 228 6401
+       
+       Mechanical Engineering Block FF
+
+   HOD:
+       0495 228 6400
+       hodmed@nitc.ac.in
+       HOD
+       Mechanical Engineering Block FF
+
 
    Dr  A Shaija:
        0495 228 6427
@@ -1751,11 +1758,6 @@
        
        Heat Engine Lab
 
-   HOD:
-       0495 228 6400
-       hodmed@nitc.ac.in
-       HOD
-       Mechanical Engineering Block FF
 
    Hydraulics lab:
        0495 228 6442
@@ -1848,10 +1850,6 @@
        Associate Professor
        Workshop
 
-   Mechanical Engineering Office:
-       0495 228 6401
-       
-       Mechanical Engineering Block FF
 
    MED Computer Center:
        0495 228 6471
