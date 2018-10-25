@@ -902,15 +902,18 @@
 
 #Civil Engineering
 
-   Adhoc Faculty - CED:
-       0495 228 6281
+   Civil Engineering Office:
+       0495 228 6201
        
-       Civil Engineering 
+       Civil Block FF
 
-   Adhoc Faculty Room- Offshore:
-       0495 228 6203
-       
-       offshore
+
+   HOD:
+       0495 228 6200
+       civilhod@nitc.ac.in
+       HOD
+       Civil Block FF
+
 
    Dr Agilan V:
        0495 228 6251
@@ -954,11 +957,6 @@
        
        Central Lybarary GF
 
-   Civil Engineering Office:
-       0495 228 6201
-       
-       Civil Block FF
-
    Concrete Lab:
        0495 228 6241
        
@@ -985,11 +983,6 @@
        harikrishna@nitc.ac.in
        Assistant Professor
        MB120
-   HOD:
-       0495 228 6200
-       civilhod@nitc.ac.in
-       HOD
-       Civil Block FF
 
    Dr Indira P V:
        0495 228 6213
@@ -1183,7 +1176,30 @@
        zacharia@nitc.ac.in
         Professor
        DB314
+
+	   Adhoc Faculty - CED:
+       0495 228 6281
+       
+       Civil Engineering 
+
+   Adhoc Faculty Room- Offshore:
+       0495 228 6203
+       
+       offshore
+
 #Computer Science and Engineering
+
+   Computer Science And Engineering Office:
+       0495 228 6801
+       
+       CSED Block GF
+
+   HOD:
+       0495 228 6800
+       hodcsed@nitc.ac.in
+       HOD
+       CSED Block GF
+
 
    Dr Abdul Nazeer K A:
        0495 228 6818
@@ -1197,14 +1213,6 @@
        Senior Mechanic
        Main Block FF
 
-   Adhoc faculty Room CSED:
-       0495 228 6825
-       
-       CSED block 103
-   Adhoc Faculty Room CSED:
-       0495 228 6819
-       
-       MB FF
 
    Mr Ajaya Chandran V R:
        0495 228 6840
@@ -1249,11 +1257,6 @@
        
        MB FF
 
-   Computer Science And Engineering Office:
-       0495 228 6801
-       
-       CSED Block GF
-
    Dr APJ Abdul Kalam Conference Room:
        0495 228 6828
        Conference Room
@@ -1268,12 +1271,6 @@
        0495 228 6841
        
        IT Complex SF
-
-   HOD:
-       0495 228 6800
-       hodcsed@nitc.ac.in
-       HOD
-       CSED Block GF
 
    Image Processing Lab:
        0495 228 6861
@@ -1420,6 +1417,14 @@
        Associate Professor
        CSE Block Room No:101C
 
+   Adhoc faculty Room CSED:
+       0495 228 6825
+       
+       CSED block 103
+   Adhoc Faculty Room CSED:
+       0495 228 6819
+       
+       MB FF
 
 
 #Guest House
@@ -2925,7 +2930,7 @@
 		+914952286653
 	
 	
-#Auto
+#Autorickshaws
 
     Pramod:
         +919895965004
