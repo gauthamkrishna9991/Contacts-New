@@ -2828,4 +2828,33 @@
 	Mr. T K Sunil Kumar:
 		+91495 228 6328
 		Assistant
-		Email: tksunil@nitc.ac.in	
+		Email: tksunil@nitc.ac.in
+
+# Students Guidance Cell
+	Students Guidance Cell (SGC):
+		+914952286180
+		sgc@nitc.ac.in
+		
+		Address -
+		MB First Floor
+
+#Health Centre
+	Dr. A A Celine:
+		+914952286651
+		+914952286659
+		Resident Medical Officer
+			
+	Mr.Abraham P:
+		+914952286652
+		Pharmacist
+	
+	DOCTOR'S ROOM:	
+		+914952286650
+		+914952286651	
+		Doctor's room
+		
+	PHARMACY:
+		+914952286653
+	
+	
+	
